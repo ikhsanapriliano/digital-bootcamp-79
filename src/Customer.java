@@ -37,4 +37,8 @@ public class Customer {
     public void setAge(int age) {
         this.age = age;
     }
+
+    public string getFullName() {
+        return name + address;
+    }
 }
