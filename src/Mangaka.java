@@ -1,4 +1,7 @@
 
+// Created By : Ikhsan Apriliano Hidayat
+// Created At : 12 December 2023
+
 public class Mangaka extends Author{
 	private String rating;
 	
