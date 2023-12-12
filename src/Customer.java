@@ -37,4 +37,9 @@ public class Customer {
     public void setAge(int age) {
         this.age = age;
     }
+
+    public void showInformation() {
+        System.out.println(getName());
+        System.out.println(getAdrress());
+    }
 }
